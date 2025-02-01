@@ -1,4 +1,3 @@
-# UiBank_Automation
 # UiBank Automation - UiPath
 
 ## Overview
